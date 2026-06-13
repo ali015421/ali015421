@@ -8,9 +8,6 @@ just a student figuring out how **finance** and **code** fit together. obsessed 
 
 i study accounting & finance, but honestly? i'm way more interested in *how things work*. whether it's understanding financial statements or building tools that actually solve problems, i'm in. 
 
-the whole "1% better everyday" thing isn't some motivational poster on my wall it's how i approach learning. small consistent wins > sporadic grinding.
----
-
 ## how i learn (and maybe you can too)
 
 instead of dumping random skills, here's actually how i approach learning stuff:
