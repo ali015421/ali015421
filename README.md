@@ -14,7 +14,7 @@ instead of dumping random skills, here's actually how i approach learning stuff:
 
 ### step 1: understand *why* i'm learning it
 - not "because it's useful" but "because i actually want to build it"
-- motivation > discipline. always.
+- motivation < discipline. always.
 
 ### step 2: find the fundamentals
 - skip fancy tutorials with 10 libraries
